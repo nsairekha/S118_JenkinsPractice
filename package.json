@@ -1,9 +1,9 @@
 {
-  "name": "ecommerce1",
+  "name": "S118_JenkinsPractice",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nsairekha.github.io/ecommerce1",
+  "homepage": "https://nsairekha.github.io/S118_JenkinsPractice",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
