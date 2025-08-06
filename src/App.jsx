@@ -22,7 +22,7 @@ function App() {
   
   return (
     <>
-    <Router basename="/S118_JenkinsPractice">
+    <Router basename="/ecommerce1">
       <Routes>
         <Route path="/" element={<HomePage />}>
           <Route index element={<AboutUs />} />
